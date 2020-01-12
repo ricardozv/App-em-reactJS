@@ -1,3 +1,7 @@
+MOSY 
+It's a fintech landing page project
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
